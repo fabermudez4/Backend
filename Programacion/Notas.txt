@@ -1,0 +1,18 @@
+Postman: realizar peticiones a una API o interactuar con un API
+
+Al construir APIs, normalmente utiliza estos métodos HTTP específicos para realizar una acción específica.
+
+Normalmente se utiliza:
+
+    POST: para crear datos.
+    GET: para leer los datos.
+    PUT: para actualizar los datos.
+    DELETE: para eliminar datos.
+
+
+...y las más exóticas:
+
+    OPTIONS
+    HEAD
+    PATCH
+    TRACE
